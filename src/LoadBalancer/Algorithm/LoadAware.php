@@ -27,4 +27,5 @@ class LoadAware implements Algorithm
         }
         return $hostWithLowestLoad;
     }
+
 }

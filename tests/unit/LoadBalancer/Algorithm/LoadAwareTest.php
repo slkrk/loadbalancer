@@ -47,4 +47,5 @@ class LoadAwareTest extends TestCase
             $this->assertEquals(min($loads), $host->load);
         }
     }
+
 }

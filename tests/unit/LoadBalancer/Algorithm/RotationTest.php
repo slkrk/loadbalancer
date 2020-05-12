@@ -23,4 +23,5 @@ class RotationTest extends TestCase
             }
         }
     }
+    
 }
